@@ -1,0 +1,7 @@
+/.fleet
+/.idea
+/.vscode
+
+*/*/.fleet
+*/*/.idea
+*/*/.vscode
